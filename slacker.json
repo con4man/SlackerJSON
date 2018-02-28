@@ -1,0 +1,90 @@
+[
+    {
+        "workout": "Chest",
+        "desc": "Chest day, best day!",
+        "exercises": [
+            {
+                "name": "Bench Press",
+                "desc": "Lie back on a flat bench. Using a medium width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked.",
+                "sets": 3,
+                "reps": 10,
+                "rest": 0,
+                "duration": 0
+            },
+            {
+                "name": "Cable Flys",
+                "desc": "Grasp two opposing high pulley dumbbell attachments. Stand with pulleys to each side. Bend over slightly by flexing hips and knees. Bend elbows slightly and internally rotate shoulders so elbows are back initially. Bring cable attachments together in hugging motion with elbows in fixed position. Keep shoulders internally rotated so elbows are pointed upward at top and out to sides at bottom. Return to starting position until chest muscles are stretched. Repeat.",
+                "sets": 3,
+                "reps": 10,
+                "rest": 0,
+                "duration": 0
+            }
+        ]
+    },
+    {
+        "workout": "Back",
+        "desc": "Back it up!",
+        "exercises": [
+            {
+                "name": "Pull Ups",
+                "desc": "Grab a bar with a grip slightly wider than shoulder width, with your hands facing away from you. Hang all the way down. Pull yourself up until your chin is above the bar. Slight pause Lower yourself all the way back down.",
+                "sets": 3,
+                "reps": 10,
+                "rest": 0,
+                "duration": 0
+            },
+            {
+                "name": "Bent Over Barbell Row",
+                "desc": "Holding a barbell with a pronated grip (palms facing down), bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up.",
+                "sets": 3,
+                "reps": 10,
+                "rest": 0,
+                "duration": 0
+            }
+        ]
+    },
+    {
+        "workout": "Shoulders",
+        "desc": "Turn those shoulders into Swollders!",
+        "exercises": [
+            {
+                "name": "Military Press",
+                "desc": "Grasp barbell from rack or clean barbell from floor with overhand grip, slightly wider than shoulder width. Position bar in front of neck. Press bar upward until arms are extended overhead. Lower to front of neck and repeat.",
+                "sets": 3,
+                "reps": 10,
+                "rest": 0,
+                "duration": 0
+            },
+            {
+                "name": "Military Press",
+                "desc": "Grasp dumbbells in front of thighs with elbows slightly bent. Bend over slightly with hips and knees bent slightly. Raise upper arms to sides until elbows are shoulder height. Maintain elbows' height above or equal to wrists. Lower and repeat.",
+                "sets": 3,
+                "reps": 10,
+                "rest": 0,
+                "duration": 0
+            }
+        ]
+    },
+    {
+        "workout": "Sprints",
+        "desc": "Running fast for short durations.",
+        "exercises": [
+            {
+                "name": "Short Sprints",
+                "desc": "For 15 seconds, run at 80% max speed.",
+                "sets": 3,
+                "reps": 1,
+                "rest": 10,
+                "duration": 15
+            },
+            {
+                "name": "Medium Sprints",
+                "desc": "For 30 seconds, run at 70% max speed.",
+                "sets": 3,
+                "reps": 1,
+                "rest": 20,
+                "duration": 30
+            }
+        ]
+    }
+]
