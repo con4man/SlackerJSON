@@ -56,8 +56,52 @@
                 "duration": 0
             },
             {
-                "name": "Military Press",
+                "name": "Lateral Raises",
                 "desc": "Grasp dumbbells in front of thighs with elbows slightly bent. Bend over slightly with hips and knees bent slightly. Raise upper arms to sides until elbows are shoulder height. Maintain elbows' height above or equal to wrists. Lower and repeat.",
+                "sets": 3,
+                "reps": 10,
+                "rest": 0,
+                "duration": 0
+            }
+        ]
+    },
+    {
+        "workout": "Bicep",
+        "desc": "Bi the whey, I lift!",
+        "exercises": [
+            {
+                "name": "Barbell Curl",
+                "desc": "Stand up with your torso upright while holding a barbell at a shoulder-width grip. The palm of your hands should be facing forward and the elbows should be close to the torso. Continue the movement until your biceps are fully contracted and the bar is at shoulder level.",
+                "sets": 3,
+                "reps": 10,
+                "rest": 0,
+                "duration": 0
+            },
+            {
+                "name": "Concentratin Curl",
+                "desc": "Sit down on a flat bench with one dumbbell in front of you between your legs. Your legs should be spread with your knees bent and feet on the floor. Use your right arm to pick the dumbbell up. While holding the upper arm stationary, curl the weights forward while contracting the biceps as you breathe out.",
+                "sets": 3,
+                "reps": 10,
+                "rest": 0,
+                "duration": 0
+            }
+        ]
+    },
+    {
+        "workout": "Tricep",
+        "desc": "Tri not to be to be impressed!",
+        "exercises": [
+            {
+                "name": "Straight Bar Tricep Pushdown",
+                "desc": "Attach a straight or angled bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width. Standing upright with the torso straight and a very small inclination forward, bring the upper arms close to your body and perpendicular to the floor.",
+                "sets": 3,
+                "reps": 10,
+                "rest": 0,
+                "duration": 0
+            },
+            {
+                "name": "Dips",
+                "desc": "Raise yourself up to an initial position with your arms extended and supporting the entire weight of your body. Next, lower yourself to a final position where your elbows are bent and your shoulders are mildly stretched.",
                 "sets": 3,
                 "reps": 10,
                 "rest": 0,
@@ -84,6 +128,28 @@
                 "reps": 1,
                 "rest": 20,
                 "duration": 30
+            }
+        ]
+    },
+    {
+        "workout": "Jogging",
+        "desc": "Running medium distances at medium .",
+        "exercises": [
+            {
+                "name": "Short Jog",
+                "desc": "For 5 minutes, run at 50% max speed.",
+                "sets": 2,
+                "reps": 1,
+                "rest": 60,
+                "duration": 300
+            },
+            {
+                "name": "Medium Jog",
+                "desc": "For 10 minutes, run at 50% max speed.",
+                "sets": 2,
+                "reps": 1,
+                "rest": 120,
+                "duration": 600
             }
         ]
     }
