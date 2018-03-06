@@ -1,5 +1,6 @@
 [
     {
+        "tag": "regular",
         "workout": "Chest",
         "desc": "Chest day, best day!",
         "exercises": [
@@ -22,6 +23,7 @@
         ]
     },
     {
+        "tag": "regular",
         "workout": "Back",
         "desc": "Back it up!",
         "exercises": [
@@ -44,6 +46,7 @@
         ]
     },
     {
+        "tag": "regular",
         "workout": "Shoulders",
         "desc": "Turn those shoulders into Swollders!",
         "exercises": [
@@ -66,6 +69,7 @@
         ]
     },
     {
+        "tag": "regular",
         "workout": "Bicep",
         "desc": "Bi the whey, I lift!",
         "exercises": [
@@ -88,6 +92,7 @@
         ]
     },
     {
+        "tag": "regular",
         "workout": "Tricep",
         "desc": "Tri not to be to be impressed!",
         "exercises": [
@@ -110,6 +115,7 @@
         ]
     },
     {
+        "tag": "cardio",
         "workout": "Sprints",
         "desc": "Running fast for short durations.",
         "exercises": [
@@ -132,6 +138,7 @@
         ]
     },
     {
+        "tag": "cardio",
         "workout": "Jogging",
         "desc": "Running medium distances at medium .",
         "exercises": [
