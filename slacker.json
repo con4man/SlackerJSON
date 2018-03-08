@@ -26,6 +26,30 @@
     {
         "id": 2,
         "tag": "regular",
+        "workout": "Chest with Rest",
+        "desc": "Chest day, best day!",
+        "exercises": [
+            {
+                "name": "Bench Press",
+                "desc": "Lie back on a flat bench. Using a medium width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked.",
+                "sets": 3,
+                "reps": 10,
+                "rest": 5,
+                "duration": 0
+            },
+            {
+                "name": "Cable Flys",
+                "desc": "Grasp two opposing high pulley dumbbell attachments. Stand with pulleys to each side. Bend over slightly by flexing hips and knees. Bend elbows slightly and internally rotate shoulders so elbows are back initially. Bring cable attachments together in hugging motion with elbows in fixed position. Keep shoulders internally rotated so elbows are pointed upward at top and out to sides at bottom. Return to starting position until chest muscles are stretched. Repeat.",
+                "sets": 3,
+                "reps": 10,
+                "rest": 6,
+                "duration": 0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "tag": "regular",
         "workout": "Back",
         "desc": "Back it up!",
         "exercises": [
@@ -48,7 +72,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 4,
         "tag": "regular",
         "workout": "Shoulders",
         "desc": "Turn those shoulders into Swollders!",
@@ -72,7 +96,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 5,
         "tag": "regular",
         "workout": "Bicep",
         "desc": "Bi the whey, I lift!",
@@ -96,7 +120,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 6,
         "tag": "regular",
         "workout": "Tricep",
         "desc": "Tri not to be to be impressed!",
@@ -120,7 +144,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": 7,
         "tag": "cardio",
         "workout": "Sprints",
         "desc": "Running fast for short durations.",
@@ -144,7 +168,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": 8,
         "tag": "cardio",
         "workout": "Jogging",
         "desc": "Running medium distances at medium .",
