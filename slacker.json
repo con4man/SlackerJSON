@@ -201,7 +201,7 @@
                 "name": "Burpees",
                 "desc": "Begin in a standing position. Move into a squat position with your hands on the ground. Kick your feet back into a plank position, while keeping your arms extended. Immediately return your feet into squat position. Stand up from the squat position.",
                 "sets": 5,
-                "reps": 0,
+                "reps": 1,
                 "rest": 15,
                 "duration": 30
             },
