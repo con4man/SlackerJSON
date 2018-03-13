@@ -222,8 +222,8 @@
         "desc": "No flabs, only Abs!",
         "exercises": [
             {
-                "name": "Burpees",
-                "desc": "Begin in a standing position. Move into a squat position with your hands on the ground. Kick your feet back into a plank position, while keeping your arms extended. Immediately return your feet into squat position. Stand up from the squat position.",
+                "name": "Crunches",
+                "desc": "Place your hands on your thighs, across your chest or behind your ears. Slowly curl up towards your knees until your shoulders are about three inches off the floor. Hold the position for a few seconds and lower down slowly.",
                 "sets": 5,
                 "reps": 1,
                 "rest": 15,
@@ -242,12 +242,12 @@
     {
         "id": 11,
         "tag": "hiit",
-        "workout": "Demo",
+        "workout": "Demo for Motivation",
         "desc": "Test it if you wanna!",
         "exercises": [
             {
-                "name": "Burpees",
-                "desc": "Begin in a standing position. Move into a squat position with your hands on the ground. Kick your feet back into a plank position, while keeping your arms extended. Immediately return your feet into squat position. Stand up from the squat position.",
+                "name": "Long break",
+                "desc": "This will have a 2 second duration and 2 minute break. Great for motivational videos",
                 "sets": 5,
                 "reps": 1,
                 "rest": 120,
@@ -260,6 +260,30 @@
                 "reps": 1,
                 "rest": 15,
                 "duration": 30
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "tag": "hiit",
+        "workout": "Demo for Transitions",
+        "desc": "Test it if you wanna!",
+        "exercises": [
+            {
+                "name": "Quick Transitions",
+                "desc": "This will have a 2 second duration and 3 second break. Great getting to the end of the workout!",
+                "sets": 2,
+                "reps": 1,
+                "rest": 3,
+                "duration": 2
+            },
+            {
+                "name": "Quick Transitions 2",
+                "desc": "This will have a 2 second duration and 3 second break. Great getting to the end of the workout!",
+                "sets": 2,
+                "reps": 1,
+                "rest": 3,
+                "duration": 2
             }
         ]
     }
