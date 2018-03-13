@@ -214,5 +214,53 @@
                 "duration": 30
             }
         ]
+    },
+    {
+        "id": 10,
+        "tag": "hiit",
+        "workout": "Boundless Abs",
+        "desc": "No flabs, only Abs!",
+        "exercises": [
+            {
+                "name": "Burpees",
+                "desc": "Begin in a standing position. Move into a squat position with your hands on the ground. Kick your feet back into a plank position, while keeping your arms extended. Immediately return your feet into squat position. Stand up from the squat position.",
+                "sets": 5,
+                "reps": 1,
+                "rest": 15,
+                "duration": 30
+            },
+            {
+                "name": "Moutain Climbers",
+                "desc": "Assume a push-up position with your arms straight and your body in a straight line from your head to your ankles. Without changing the posture of your lower back (it should be arched), raise your right knee toward your chest. Pause, return to the starting position and repeat with your left leg.",
+                "sets": 8,
+                "reps": 1,
+                "rest": 15,
+                "duration": 30
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "tag": "hiit",
+        "workout": "Demo",
+        "desc": "Test it if you wanna!",
+        "exercises": [
+            {
+                "name": "Burpees",
+                "desc": "Begin in a standing position. Move into a squat position with your hands on the ground. Kick your feet back into a plank position, while keeping your arms extended. Immediately return your feet into squat position. Stand up from the squat position.",
+                "sets": 5,
+                "reps": 1,
+                "rest": 120,
+                "duration": 2
+            },
+            {
+                "name": "Moutain Climbers",
+                "desc": "Assume a push-up position with your arms straight and your body in a straight line from your head to your ankles. Without changing the posture of your lower back (it should be arched), raise your right knee toward your chest. Pause, return to the starting position and repeat with your left leg.",
+                "sets": 8,
+                "reps": 1,
+                "rest": 15,
+                "duration": 30
+            }
+        ]
     }
 ]
